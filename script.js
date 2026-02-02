@@ -1,4 +1,4 @@
-e// Initialize configuration
+// Initialize configuration
 const config = window.VALENTINE_CONFIG;
 
 // Validate configuration
