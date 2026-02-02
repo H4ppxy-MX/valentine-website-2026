@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Willst du meine Valentine sein? 💝",
+    pageTitle: "Willst du meine Valentina sein? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Weiter ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Willst du meine Valentine sein? 🌹", // The big question!
+            text: "Willst du meine Valentina sein? 🌹", // The big question!
             yesBtn: "Ja!",                                             // Text for "Yes" button
             noBtn: "Nein"                                                 // Text for "No" button
         }
