@@ -1,4 +1,4 @@
-// Initialize configuration
+e// Initialize configuration
 const config = window.VALENTINE_CONFIG;
 
 // Validate configuration
@@ -59,7 +59,7 @@ window.addEventListener('DOMContentLoaded', () => {
     validateConfig();
 
     // Set texts from config
-    document.getElementById('valentineTitle').textContent = `${config.valentineName}, my love...`;
+    document.getElementById('valentineTitle').textContent = `${config.valentineName}, meine Geliebte...`;
     
     // Set first question texts
     document.getElementById('question1Text').textContent = config.questions.first.text;
